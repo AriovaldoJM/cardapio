@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include('includes/head.php'); ?>
-    <?php include('includes/header.php'); ?>
+    <?php include('cardapio/includes/head.php'); ?>
+    <?php include('cardapio/includes/header.php'); ?>
     <title>Grão da Aldeia</title>
 </head>
 <body>
