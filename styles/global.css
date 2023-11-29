@@ -1,0 +1,280 @@
+
+
+@media screen and (max-width:1399px) {
+
+    .p,
+    p {
+        margin-bottom: 0 !important;
+        font-size: 18px;
+        line-height: 22px;
+        font-weight: 400
+    }
+
+    a {
+        font-size: 24px;
+        line-height: 30px;
+        text-decoration: none;
+        color: #7C7C7C;
+        font-weight: 400;
+    }
+
+    h1 {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .alt-plus {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .alt-medium {
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .alt-down {
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .alt-text {
+        font-size: 18px;
+        line-height: 21px
+    }
+
+    .sub-text {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    h2 {
+        font-size: 24px
+    }
+
+    .p,
+    p {
+        margin-bottom: 0 !important;
+        font-size: 19px;
+        line-height: 24px;
+        font-weight: 400
+    }
+
+    .alt-plus {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .alt-medium {
+        font-size: 18px;
+        line-height: 21px;
+    }
+
+    .alt-text {
+        font-size: 16px;
+        line-height: 18px;
+    }
+
+    .alt-down {
+        font-size: 17px;
+        line-height: 19px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .cardBlog {
+        border: 1px solid rgba(112, 112, 112, 0.400);
+    }
+
+    .capaCardBlog {
+        width: 100%;
+    }
+
+    .blog-home .blog-conteudo {
+        height: 200px !important;
+    }
+
+    .blog-home .meio {
+        height: 200px;
+    }
+
+    .bannerPrincipal {
+        max-height: 320px;
+    }
+
+    .bannerPrincipal p.alt-title {
+        font-size: 38px;
+        line-height: 31px;
+    }
+
+    .bannerPrincipal h1.alt-title {
+        font-size: 34px;
+        line-height: 31px;
+    }
+
+    .bannerPrincipal .alt-medium {
+        font-size: 16px;
+    }
+
+    .bannerInterno {
+        min-height: 280px;
+        max-height: 320px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .alt-plus {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .alt-medium {
+        font-size: 21px;
+        line-height: 21px;
+    }
+
+    .banner-exames {
+        height: 65vh;
+    }
+
+    .conteudo-banners {
+        padding-top: 80px;
+    }
+
+    .lity-container {
+        max-width: 85vw !important;
+    }
+
+    .bannerPrincipal {
+        background-image: url(../assets/defaults/banner-principal-mobile.jpg);
+    }
+
+    .bannerPrincipal p.alt-title {
+        font-size: 28px;
+        line-height: 30px;
+    }
+
+    .bannerPrincipal h1.alt-title {
+        font-size: 24px;
+        line-height: 30px;
+    }
+
+    .offset-top-interno {
+        margin-top: -25px;
+    }
+
+    .bannerInterno {
+        max-height: 290px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    h1 {
+        font-size: 24px;
+        line-height: 28px
+    }
+
+    h1 span {
+        font-size: 38px;
+        line-height: 40px
+    }
+
+    h2 {
+        font-size: 21px;
+        line-height: 20px;
+    }
+
+    .small,
+    small {
+        font-size: 12px !important;
+        font-weight: 400;
+        line-height: 16px;
+    }
+
+    .alt-down {
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .alt-medium {
+        font-size: 18px;
+    }
+
+    .alt-biggest {
+        font-size: 48px;
+        line-height: 65px;
+    }
+
+    .form-control-personalizado {
+        display: block;
+        width: 100%;
+        padding: .375rem .75rem;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        color: #4A1F14;
+        background-color: transparent;
+        background-clip: padding-box;
+        border: 1px solid #FFAB00;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        border-radius: 10px;
+        transition: all .5s;
+    }
+
+    .form__field {
+        font-size: 19px;
+    }
+
+    .form__field:placeholder-shown~.form__label {
+        font-size: 19px;
+    }
+
+    .bannerPrincipal {
+        max-height: 415px;
+    }
+
+    .bannerRotativo h3 {
+        font-size: 28px;
+        line-height: 31px;
+    }
+
+    .bannerRotativo h3 span {
+        font-size: 34px;
+    }
+}
+
+@media screen and (max-width:330px) {
+    p {
+        font-size: 16px
+    }
+
+    small {
+        font-size: 12px
+    }
+
+    h2 {
+        font-size: 18px;
+        line-height: 20px
+    }
+
+    .alt-medium {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .alt-down {
+        font-size: 16px;
+        line-height: 21px;
+    }
+
+    .sub-text {
+        font-size: 14px;
+        line-height: 18px;
+    }
+}
+
+@media screen and (max-height:590px) {}
